@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Je suis un développeur web et mobile avec plus de 4 ans d'expérience. J'ai développé de nombreuses applications web pour différentes entreprises/clients.
 
 <!--
 **Wakmazel/Wakmazel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
